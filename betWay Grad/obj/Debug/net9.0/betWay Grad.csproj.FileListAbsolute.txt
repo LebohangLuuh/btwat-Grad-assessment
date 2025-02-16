@@ -1,0 +1,14 @@
+c:\Users\DR NET SOH\Desktop\btwat Grad\betWay Grad\bin\Debug\net9.0\betWay Grad.exe
+c:\Users\DR NET SOH\Desktop\btwat Grad\betWay Grad\bin\Debug\net9.0\betWay Grad.deps.json
+c:\Users\DR NET SOH\Desktop\btwat Grad\betWay Grad\bin\Debug\net9.0\betWay Grad.runtimeconfig.json
+c:\Users\DR NET SOH\Desktop\btwat Grad\betWay Grad\bin\Debug\net9.0\betWay Grad.dll
+c:\Users\DR NET SOH\Desktop\btwat Grad\betWay Grad\bin\Debug\net9.0\betWay Grad.pdb
+c:\Users\DR NET SOH\Desktop\btwat Grad\betWay Grad\obj\Debug\net9.0\betWay Grad.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\DR NET SOH\Desktop\btwat Grad\betWay Grad\obj\Debug\net9.0\betWay Grad.AssemblyInfoInputs.cache
+c:\Users\DR NET SOH\Desktop\btwat Grad\betWay Grad\obj\Debug\net9.0\betWay Grad.AssemblyInfo.cs
+c:\Users\DR NET SOH\Desktop\btwat Grad\betWay Grad\obj\Debug\net9.0\betWay Grad.csproj.CoreCompileInputs.cache
+c:\Users\DR NET SOH\Desktop\btwat Grad\betWay Grad\obj\Debug\net9.0\betWay Grad.dll
+c:\Users\DR NET SOH\Desktop\btwat Grad\betWay Grad\obj\Debug\net9.0\refint\betWay Grad.dll
+c:\Users\DR NET SOH\Desktop\btwat Grad\betWay Grad\obj\Debug\net9.0\betWay Grad.pdb
+c:\Users\DR NET SOH\Desktop\btwat Grad\betWay Grad\obj\Debug\net9.0\betWay Grad.genruntimeconfig.cache
+c:\Users\DR NET SOH\Desktop\btwat Grad\betWay Grad\obj\Debug\net9.0\ref\betWay Grad.dll
