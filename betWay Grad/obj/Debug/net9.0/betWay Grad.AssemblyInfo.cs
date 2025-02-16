@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("betWay Grad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b264a48a23c8a63544de5317401f56c479b87a10")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be996035687bf0baad9e22e797599265f83198ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("betWay Grad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("betWay Grad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
